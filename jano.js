@@ -6140,9 +6140,15 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne
 
-jano.login("");
-jano2.login("");
-jano3.login("");
+jano.login("OTQ20DCWODQ0ODkyOD
+A3MjI4.YhICpg.kiQq86DWF2SY9s
+fOTzaRFFmli40");
+jano2.login("OT020DcxMzgz
+ODQ4MjU5NjQ0.YhIC_g.-
+n9vk9ZFuPbTeN7yZ7JIr2z97tl");
+jano3.login("OT020DcxMzgz
+ODQ4MjU5NjQ0.YhIC_g.-
+n9vk9ZFuPbTeN7yZ7JIr2z97tl");
 jano4.login("");
 jano5.login("");
 jano6.login("");
